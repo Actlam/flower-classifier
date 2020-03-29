@@ -60,7 +60,7 @@ def upload_file():
         <html>
         <head>
         <meta charset="UTF-8">
-        <title> ファイルをアップロードして判定！</title></head>
+        <title> ファイルをアップロードして判定する</title></head>
         <body>
         <h1>Please upload the image of the flower you want to know the name</h1>
         <form method = post enctype = multipart/form-data>
